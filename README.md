@@ -1,2 +1,2 @@
 # windows_tools
-ls -la for windows demo
+如:ls -la for windows demo
